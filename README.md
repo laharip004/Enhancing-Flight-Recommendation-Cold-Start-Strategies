@@ -78,4 +78,4 @@ This README provides a detailed overview of the Flight Ticket Recommendation Sys
 
 This extended version incorporates specific details about your interdisciplinary project, including team members, project overview, and its educational context at Vignan University.
 
-For any quaries you can reachout throught mail: jayanthaddepalli03@gmail.com
+For any quaries you can reachout throught mail: jayanthaddepalli03@gmail.com,laharip910@gmail.com,satyalakshmi209@gmail.com,saranyyasrinivas22@gmail.com
